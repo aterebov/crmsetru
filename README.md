@@ -1,2 +1,2 @@
 # crmsetru
-sboosk - dev instance
+sbooks - dev instance
